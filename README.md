@@ -4,4 +4,5 @@ Version Française du Discord-Nitro-Proof-Bot pour lancé le script il suffit de
 - npm -i
 
 +boost [nom]
+
 +nitro [classic]
